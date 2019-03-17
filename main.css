@@ -201,7 +201,7 @@ article {
 
 .background-wood {
     background-image: url(img/background-wood.jpg);
-    height: 100vh;
+    height: 1000px;
     width: 100vw;
     background-size: cover;
     background-repeat: no-repeat;
@@ -255,13 +255,11 @@ article {
     height: 25vh;
     object-fit: cover;
     filter: brightness(90%);
-
-
 }
+
 #shop-h1 {
     margin-bottom: -0.5em;
     margin-left: 10px;
-    z-index: 1000;
 }
 
 #shop-h3 {
